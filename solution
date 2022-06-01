@@ -1,0 +1,3 @@
+ch16@challenge02:~$ ./wrapper "0 -o test"
+
+condition toujours vrai permettant de rentrer dans le if .
